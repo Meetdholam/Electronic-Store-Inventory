@@ -1,0 +1,129 @@
+============================================================
+ELECTRONIC STORE INVENTORY - SAMPLE DATA
+============================================================
+
+---------- SMARTPHONES ----------
+
+Product ID: PHONE001
+Product Name: iPhone 15 Pro Max
+Brand: Apple
+Category: Smartphones
+Price: 1199
+Quantity: 25
+Status: In Stock
+Warranty: 2 Years
+Description: 6.7-inch OLED display, A17 Pro chip, 48MP camera
+
+Product ID: PHONE002
+Product Name: Samsung Galaxy S24 Ultra
+Brand: Samsung
+Category: Smartphones
+Price: 1099
+Quantity: 18
+Status: In Stock
+Warranty: 2 Years
+Description: 6.8-inch Dynamic AMOLED, S Pen, 200MP camera
+
+Product ID: PHONE003
+Product Name: Google Pixel 8 Pro
+Brand: Google
+Category: Smartphones
+Price: 899
+Quantity: 10
+Status: Low Stock
+Warranty: 1 Year
+Description: 6.7-inch OLED, Tensor G3, 50MP camera
+
+---------- LAPTOPS ----------
+
+Product ID: LAP001
+Product Name: Dell XPS 16
+Brand: Dell
+Category: Laptops
+Price: 1499
+Quantity: 12
+Status: In Stock
+Warranty: 3 Years
+Description: 16-inch OLED, Intel Core Ultra 9, 32GB RAM
+
+Product ID: LAP002
+Product Name: MacBook Pro 16
+Brand: Apple
+Category: Laptops
+Price: 2499
+Quantity: 8
+Status: Low Stock
+Warranty: 2 Years
+Description: 16-inch Liquid Retina XDR, M3 Max chip
+
+---------- ACCESSORIES ----------
+
+Product ID: ACC001
+Product Name: AirPods Pro 2
+Brand: Apple
+Category: Accessories
+Price: 249
+Quantity: 50
+Status: In Stock
+Warranty: 1 Year
+Description: Active Noise Cancellation, Spatial Audio
+
+Product ID: ACC002
+Product Name: Samsung Galaxy Buds 3 Pro
+Brand: Samsung
+Category: Accessories
+Price: 199
+Quantity: 35
+Status: In Stock
+Warranty: 1 Year
+Description: Intelligent Noise Cancellation, 360 Audio
+
+---------- GAMING ----------
+
+Product ID: GAME001
+Product Name: PlayStation 5
+Brand: Sony
+Category: Gaming
+Price: 499
+Quantity: 15
+Status: In Stock
+Warranty: 1 Year
+Description: 825GB SSD, 4K gaming, DualSense controller
+
+Product ID: GAME002
+Product Name: Xbox Series X
+Brand: Microsoft
+Category: Gaming
+Price: 499
+Quantity: 0
+Status: Out of Stock
+Warranty: 1 Year
+Description: 1TB SSD, 4K gaming, 12 Teraflops
+
+============================================================
+QUICK TEST DATA (Add these first to test)
+============================================================
+
+Product ID: TEST001
+Product Name: Wireless Earbuds Pro
+Brand: Sony
+Category: Audio
+Price: 149
+Quantity: 100
+Status: In Stock
+Warranty: 1 Year
+Description: Premium wireless earbuds with noise cancellation
+
+Product ID: TEST002
+Product Name: RGB Gaming Mouse
+Brand: Logitech
+Category: Accessories
+Price: 79
+Quantity: 50
+Status: In Stock
+Warranty: 1 Year
+Description: Wireless gaming mouse with RGB lighting
+
+============================================================
+END OF DATA
+============================================================

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# MongoDB
+/data/
+/dump/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.tmp
+.env
+config.py
+*.pyc
